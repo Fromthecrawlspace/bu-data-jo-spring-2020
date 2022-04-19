@@ -1,4 +1,4 @@
 # bu-data-jo-spring-2020
-practice repo!
 # This is my practice repo!
+La la la, practice repo, yay
 :hibiscus: :sparkling_heart:
