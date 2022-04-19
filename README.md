@@ -1,4 +1,4 @@
 # bu-data-jo-spring-2020
 practice repo!
-__ This is my practice repo! __
+# This is my practice repo!
 :hibiscus: :sparkling_heart:
